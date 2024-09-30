@@ -1,4 +1,4 @@
-local validkeys = {
+local vk = {
  'FdXULbyytF',
  'LDIFX5UYEs',
  'XXWX6806V6',
